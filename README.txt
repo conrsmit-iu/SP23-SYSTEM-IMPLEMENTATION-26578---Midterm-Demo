@@ -10,7 +10,6 @@ HOW TO RUN:
 				-I personally use Eclipse, but this shouldn't affect whether it works
 			2. MySQL Workbench or equivalents
 			3. A JDBC jar
-				Incase the program won't work for you, I have included the jar I use, Connector/J. This is permitted by the license of Connector/J. There's very little chance that one that you use won't work, but if it doesn't, use the one I included.
 	SETUP:
 		1. Start up a local SQL instance.
 			-- At the moment, this program does not connect to an actual server. Instead, it runs on the localhost for troubleshooting purposes.
