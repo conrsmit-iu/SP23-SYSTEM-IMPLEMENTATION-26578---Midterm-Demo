@@ -4,7 +4,7 @@ The Midterm Demo files for SP23: SYSTEM IMPLEMENTATION: 26578 at IUS, Spring 202
 PREFACE:
 Note that at this time the HTML/CSS are NOT integrated with the rest of the project, and there are still some disparities between the MySQL and Java implemenations. This is due to the loss of the original Java files during a major storm and subsequent power outage that occured in my area last week, and serves as a great reminder to always backup files, even if the computer they're on shouldn't go anywhere. Thankfully, my documentation was backed up and it wasn't too hard to get it working again, though I would've liked to spend this week standardizing the integration between the Java end and the SQL end instead.
 
-I apologize for any jankiness that resulted from this. As I continue work on this, any issue that remain should get ironed out in the process.
+I apologize for any jankiness that resulted from this. As I continue work on this, any issues that remain should get ironed out in the process.
 
 HOW TO RUN:
 	REQUIREMENTS:
