@@ -20,3 +20,5 @@ HOW TO RUN:
 		3. Open the Demo.java file in your IDE of choice.
 		4. Run Demo.java and interact with the current features.
 			-- There is at least one issue I know of in the current implementation that will be tricky enough to fix that I have delayed working on it until after this demo, that being that using a ' character will break any query the program tries to make. Beyond that, everything should be working at this point.
+
+Link to video demo: https://iu.mediaspace.kaltura.com/media/t/1_q7xelyab
